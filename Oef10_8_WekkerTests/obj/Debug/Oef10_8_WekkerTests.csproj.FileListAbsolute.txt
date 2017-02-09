@@ -1,0 +1,9 @@
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\obj\Debug\Oef10_8_WekkerTests.csprojResolveAssemblyReference.cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\bin\Debug\Oef10_8_WekkerTests.dll
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\bin\Debug\Oef10_8_WekkerTests.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\bin\Debug\Oef10_8_Wekker.exe
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\bin\Debug\Oef10_8_Wekker.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\obj\Debug\Oef10_8_WekkerTests.dll
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_WekkerTests\obj\Debug\Oef10_8_WekkerTests.pdb

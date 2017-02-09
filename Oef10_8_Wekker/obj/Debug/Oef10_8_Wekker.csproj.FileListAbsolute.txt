@@ -1,0 +1,13 @@
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\bin\Debug\Oef10_8_Wekker.exe.config
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\bin\Debug\Oef10_8_Wekker.exe
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\bin\Debug\Oef10_8_Wekker.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.csprojResolveAssemblyReference.cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\MainWindow.baml
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\MainWindow.g.cs
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\App.g.cs
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker_MarkupCompile.cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.g.resources
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.Properties.Resources.resources
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.csproj.GenerateResource.Cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.exe
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.pdb
