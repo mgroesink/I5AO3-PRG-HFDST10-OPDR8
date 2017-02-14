@@ -11,3 +11,6 @@ C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpga
 C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.csproj.GenerateResource.Cache
 C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.exe
 C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\OplossingenOpgavenBoek\oefeningen\h10\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.pdb
+E:\Pearson C#\Wekker\Oef10_8_Wekker\bin\Debug\Oef10_8_Wekker.exe.config
+E:\Pearson C#\Wekker\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.exe
+E:\Pearson C#\Wekker\Oef10_8_Wekker\obj\Debug\Oef10_8_Wekker.pdb
